@@ -1,0 +1,6 @@
+{
+  "files.watcherExclude": {
+    "**/target": true
+  },
+  "python.pythonPath": "/usr/local/opt/python@3.7/bin/python3"
+}
