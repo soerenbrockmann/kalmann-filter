@@ -2,5 +2,8 @@
   "files.watcherExclude": {
     "**/target": true
   },
-  "python.pythonPath": "/usr/local/opt/python@3.7/bin/python3"
+  "python.pythonPath": "/usr/local/opt/python@3.7/bin/python3",
+  "files.associations": {
+    "cmath": "cpp"
+  }
 }
