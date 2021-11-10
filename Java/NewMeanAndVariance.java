@@ -2,7 +2,6 @@ class Values
 {
     public Double mean; 
     public Double var;  
-    public int    BirthYear; 
  };
 
 public class NewMeanAndVariance {
