@@ -12842,3 +12842,4 @@ file%3A%2F%2F%2FUsers%2Fmywalkee.com%2FGit%2Fkalmann-filter%2FScala%2Fgaussian%2
 [0m2021.11.10 21:24:17 WARN  no build target for: /Users/mywalkee.com/Git/kalmann-filter/Scala/gaussian/src/main/scala/Main.scala[0m
 [0m2021.11.10 21:24:19 INFO  time: code lens generation in 25s[0m
 [0m2021.11.10 21:24:19 INFO  time: code lens generation in 1.28s[0m
+[0m2021.11.11 21:29:52 INFO  shutting down Metals[0m
