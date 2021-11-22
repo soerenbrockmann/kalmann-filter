@@ -1,5 +1,7 @@
-#include <stdio.h>
-#include <math.h>
+#include <iostream>
+#include <cmath>
+
+using namespace std;
 
 struct Values
 {
